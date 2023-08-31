@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Nunito:wght@300&display=swap');
+body{
+    background-color: rgb(16, 16, 40);
+    font-family:Montserrat ;
+
+}
+.img{
+    background-image: url('kelly-sikkema-PqqQDpS6H6A-unsplash.jpg');
+    background-size: cover;
+}
+.hea{
+    display: flex;
+    justify-content: space-between;
+}
+.temp{
+    font-size: 60px;
+    margin-bottom: 140px;
+}
+.det{
+    display: flex;
+    justify-content: space-between;
+}
+.blu{
+    display: flex;
+    justify-content: space-between;
+}
+.img1{
+    background-image: url('luca-bravo-a_hPPrncGlQ-unsplash.jpg');
+    background-size: cover;
+}
+p{
+    font-weight: 600;
+}
